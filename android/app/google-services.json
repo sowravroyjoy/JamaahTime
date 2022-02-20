@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803025102990",
+    "project_id": "muslim-pro-338804",
+    "storage_bucket": "muslim-pro-338804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803025102990:android:8da2a47a83250d9753c1df",
+        "android_client_info": {
+          "package_name": "com.meettechlab.muslimpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803025102990-dfgoouvh13ar7lfjqbnu35ttqv9l2rea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meettechlab.muslimpro",
+            "certificate_hash": "8afbc211d70587308b1a92d982badf18cd0e8e9c"
+          }
+        },
+        {
+          "client_id": "803025102990-trmg94ah83cc5e46tu2uphdil03141cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1c2OpKOGccrxIq_m84s7nz4Ga_hvqUr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803025102990-trmg94ah83cc5e46tu2uphdil03141cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
